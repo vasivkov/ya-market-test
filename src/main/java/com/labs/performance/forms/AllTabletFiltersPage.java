@@ -5,9 +5,6 @@ import com.labs.performance.framework.Util;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-/**
- * Created by vasya on 16/06/18.
- */
 public class AllTabletFiltersPage extends PageObject {
 
     @FindBy(id = "glf-pricefrom-var")

@@ -4,9 +4,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-/**
- * Created by vasya on 17/06/18.
- */
 public class BrowserFactory {
     private static WebDriver driver;
     private static WebDriverWait webDriverWait;
